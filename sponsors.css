@@ -391,8 +391,8 @@ body {
   display: block !important;
 }
 
-.ctct-inline-form div[class*="ctct-form"]:not([style*="display: none"]):not([hidden]),
-.ctct-embed-signup div[class*="ctct-form"]:not([style*="display: none"]):not([hidden]) {
+.ctct-inline-form div[class*="ctct-form"]:not([style*="display: none"]):not([style*="display:none"]):not([hidden]),
+.ctct-embed-signup div[class*="ctct-form"]:not([style*="display: none"]):not([style*="display:none"]):not([hidden]) {
   display: flex !important;
   flex-direction: column !important;
   align-items: center !important;
@@ -410,11 +410,11 @@ body {
 
 .ctct-inline-form label,
 .ctct-inline-form input,
-.ctct-inline-form p,
+.ctct-inline-form p:not([class*="success"]):not([class*="error"]),
 .ctct-inline-form button,
 .ctct-embed-signup label,
 .ctct-embed-signup input,
-.ctct-embed-signup p,
+.ctct-embed-signup p:not([class*="success"]):not([class*="error"]),
 .ctct-embed-signup button {
   position: static !important;
   float: none !important;
@@ -445,4 +445,96 @@ body {
   color: #ffffff !important;
   font-weight: 700 !important;
   cursor: pointer !important;
+}
+
+
+
+
+.ctct-inline-form.ctct-state-success .ctct-form-success,
+.ctct-inline-form .ctct-form-wrapper.ctct-state-success .ctct-form-success,
+.ctct-inline-form .ctct-form-success.ctct-state-success,
+.ctct-embed-signup.ctct-state-success .ctct-form-success,
+.ctct-embed-signup .ctct-form-wrapper.ctct-state-success .ctct-form-success {
+  display: block !important;
+}
+
+.ctct-inline-form.ctct-state-error .ctct-form-error,
+.ctct-inline-form .ctct-form-wrapper.ctct-state-error .ctct-form-error,
+.ctct-embed-signup.ctct-state-error .ctct-form-error,
+.ctct-embed-signup .ctct-form-wrapper.ctct-state-error .ctct-form-error {
+  display: block !important;
+}
+
+
+/* Explicitly hide CTCT success & error containers (supporting both style="display:none;" and style="display: none;") */
+.ctct-inline-form #success_message_0,
+.ctct-inline-form #error_message_0,
+.ctct-inline-form #network_error_message_0,
+.ctct-inline-form .ctct-form-success,
+.ctct-inline-form .ctct-form-error,
+.ctct-embed-signup #success_message_0,
+.ctct-embed-signup #error_message_0,
+.ctct-embed-signup #network_error_message_0,
+.ctct-embed-signup .ctct-form-success,
+.ctct-embed-signup .ctct-form-error {
+  display: none !important;
+}
+
+/* Only show success message upon active success state */
+.ctct-inline-form.ctct-state-success #success_message_0,
+.ctct-inline-form .ctct-form-wrapper.ctct-state-success #success_message_0,
+.ctct-inline-form.ctct-state-success .ctct-form-success,
+.ctct-inline-form .ctct-form-wrapper.ctct-state-success .ctct-form-success,
+.ctct-embed-signup.ctct-state-success #success_message_0,
+.ctct-embed-signup .ctct-form-wrapper.ctct-state-success #success_message_0 {
+  display: block !important;
+}
+
+/* Only show error message upon active error state */
+.ctct-inline-form.ctct-state-error #error_message_0,
+.ctct-inline-form.ctct-state-error #network_error_message_0,
+.ctct-inline-form .ctct-form-wrapper.ctct-state-error #error_message_0,
+.ctct-inline-form .ctct-form-wrapper.ctct-state-error #network_error_message_0,
+.ctct-embed-signup.ctct-state-error #error_message_0 {
+  display: block !important;
+}
+
+
+
+
+
+/* Remove Constant Contact inner oval shapes, borders and shadows from form wrappers */
+.ctct-inline-form form,
+.ctct-inline-form div,
+.ctct-inline-form fieldset,
+.ctct-embed-signup form,
+.ctct-embed-signup div,
+.ctct-embed-signup fieldset,
+.ctct-form-embed,
+.ctct-form-defaults,
+.ctct-form-wrapper,
+div[class*="ctct-form"],
+form[class*="ctct-form"] {
+  border-radius: 0 !important;
+  box-shadow: none !important;
+  background-color: transparent !important;
+  background: transparent !important;
+}
+
+/* Explicitly preserve rounded corners for inputs and submit button */
+.ctct-inline-form input[type="email"],
+.ctct-embed-signup input[type="email"],
+.ctct-inline-form input[type="text"],
+.ctct-embed-signup input[type="text"],
+.ctct-inline-form textarea,
+.ctct-embed-signup textarea {
+  border-radius: 8px !important;
+}
+
+.ctct-inline-form button[type="submit"],
+.ctct-embed-signup button[type="submit"],
+.ctct-inline-form .ctct-form-button,
+.ctct-embed-signup .ctct-form-button,
+.ctct-button {
+  border-radius: 999px !important;
 }
