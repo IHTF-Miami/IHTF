@@ -149,20 +149,21 @@
           <a href="2010/" class="edition-card"><img src="../../assets/archivos-del-festival/25.avif" alt="25th International Hispanic Theatre Festival of Miami" loading="lazy" /></a>
           <a href="2011/" class="edition-card"><img src="../../assets/archivos-del-festival/26.avif" alt="26th International Hispanic Theatre Festival of Miami" loading="lazy" /></a>
           
-          <div class="edition-card"><img src="../../assets/archivos-del-festival/27.avif" alt="27th International Hispanic Theatre Festival of Miami" loading="lazy" /></div>
-          <div class="edition-card"><img src="../../assets/archivos-del-festival/28.avif" alt="28th International Hispanic Theatre Festival of Miami" loading="lazy" /></div>
-          <div class="edition-card"><img src="../../assets/archivos-del-festival/29.avif" alt="29th International Hispanic Theatre Festival of Miami" loading="lazy" /></div>
-          <div class="edition-card"><img src="../../assets/archivos-del-festival/30.avif" alt="30th International Hispanic Theatre Festival of Miami" loading="lazy" /></div>
-          <div class="edition-card"><img src="../../assets/archivos-del-festival/31.avif" alt="31st International Hispanic Theatre Festival of Miami" loading="lazy" /></div>
+          <a href="2012/" class="edition-card"><img src="../../assets/archivos-del-festival/27.avif" alt="27th International Hispanic Theatre Festival of Miami" loading="lazy" /></a>
+          <a href="2013/" class="edition-card"><img src="../../assets/archivos-del-festival/28.avif" alt="28th International Hispanic Theatre Festival of Miami" loading="lazy" /></a>
+          <a href="2014/" class="edition-card"><img src="../../assets/archivos-del-festival/29.avif" alt="29th International Hispanic Theatre Festival of Miami" loading="lazy" /></a>
+          <a href="2015/" class="edition-card"><img src="../../assets/archivos-del-festival/30.avif" alt="30th International Hispanic Theatre Festival of Miami" loading="lazy" /></a>
+          <a href="2016/" class="edition-card"><img src="../../assets/archivos-del-festival/31.avif" alt="31st International Hispanic Theatre Festival of Miami" loading="lazy" /></a>
+          <a href="2017/" class="edition-card"><img src="../../assets/archivos-del-festival/32.avif" alt="32nd International Hispanic Theatre Festival of Miami" loading="lazy" /></a>
+          <a href="2018/" class="edition-card"><img src="../../assets/archivos-del-festival/33.avif" alt="33rd International Hispanic Theatre Festival of Miami" loading="lazy" /></a>
+          <a href="2019/" class="edition-card"><img src="../../assets/archivos-del-festival/34.avif" alt="34th International Hispanic Theatre Festival of Miami" loading="lazy" /></a>
+          <a href="2021/" class="edition-card"><img src="../../assets/archivos-del-festival/35.avif" alt="35th International Hispanic Theatre Festival of Miami" loading="lazy" /></a>
+          <a href="2022/" class="edition-card"><img src="../../assets/archivos-del-festival/36.avif" alt="36th International Hispanic Theatre Festival of Miami" loading="lazy" /></a>
           
-          <div class="edition-card"><img src="../../assets/archivos-del-festival/32.avif" alt="32nd International Hispanic Theatre Festival of Miami" loading="lazy" /></div>
-          <div class="edition-card"><img src="../../assets/archivos-del-festival/33.avif" alt="33rd International Hispanic Theatre Festival of Miami" loading="lazy" /></div>
-          <div class="edition-card"><img src="../../assets/archivos-del-festival/34.avif" alt="34th International Hispanic Theatre Festival of Miami" loading="lazy" /></div>
-          <div class="edition-card"><img src="../../assets/archivos-del-festival/35.avif" alt="35th International Hispanic Theatre Festival of Miami" loading="lazy" /></div>
-          <div class="edition-card"><img src="../../assets/archivos-del-festival/36.avif" alt="36th International Hispanic Theatre Festival of Miami" loading="lazy" /></div>
-          
-          <div class="edition-card"><img src="../../assets/archivos-del-festival/37.avif" alt="37th International Hispanic Theatre Festival of Miami" loading="lazy" /></div>
-          <div class="edition-card"><img src="../../assets/archivos-del-festival/38.avif" alt="38th International Hispanic Theatre Festival of Miami" loading="lazy" /></div>
+          <a href="2023/" class="edition-card"><img src="../../assets/archivos-del-festival/37.avif" alt="37th International Hispanic Theatre Festival of Miami" loading="lazy" /></a>
+          <a href="2024/" class="edition-card"><img src="../../assets/archivos-del-festival/38.avif" alt="38th International Hispanic Theatre Festival of Miami" loading="lazy" /></a>
+          <a href="2025/" class="edition-card"><img src="../../assets/archivos-del-festival/39.avif" alt="39th International Hispanic Theatre Festival of Miami" loading="lazy" /></a>
+          <a href="2026/" class="edition-card"><img src="../../assets/archivos-del-festival/40.avif" alt="40th International Hispanic Theatre Festival of Miami" loading="lazy" /></a>
         </div>
       </div>
     </section>
@@ -246,6 +247,16 @@
         langOpts[1].addEventListener("click", function () { // English
           localStorage.setItem("preferred_lang", "en");
           langSelector.classList.remove("open");
+        });
+      }
+
+      // Ensure local file:// protocol directly opens index.html for edition cards
+      if (window.location.protocol === 'file:') {
+        document.querySelectorAll('.edition-card').forEach(function(card) {
+          const href = card.getAttribute('href');
+          if (href && href.endsWith('/') && !href.endsWith('index.html')) {
+            card.setAttribute('href', href + 'index.html');
+          }
         });
       }
 

@@ -1,0 +1,103 @@
+TEXT: La Compañía Personal Premios PROGRAMA
+TEXT: PROGRAMA 2025 Programa de Mano Calendario Eventos Adicionales Día Internacional del Niño Teatros Sponsors ARCHIVOS DEL FESTIVAL
+TEXT: CONTACTOS
+TEXT: INSCRIPCIONES 40º FESTIVAL
+TEXT: More
+IMAGE: src=./Program 2022 _ teatroavante_files/TEA_Brand 36_02_IHTF34 - WHT.png | alt=TEA_Brand 36_02_IHTF34 - WHT.png
+TEXT: XXXVI INTERNATIONAL HISPANIC THEATRE FESTIVAL OF MIAMI
+TEXT: 2022 PROGRAM
+IMAGE: src=./Program 2022 _ teatroavante_files/XXXVI - IHTF - Poster_Artist_Image_Adriana_Torres_Sanchez_2022.jpg | alt=XXXVI - IHTF - Poster.Artist.Image.Adriana.Torres.Sanchez.2022.jpg
+TEXT: Thursday, June 16
+TEXT: INTRODUCING THE POSTER ARTIST
+TEXT: ADRIANA TORRES&nbsp; | MEXICO
+TEXT: MDCA’s Lobby | 2901 West Flagler Street, Miami
+IMAGE: src=./Program 2022 _ teatroavante_files/f1540b_4b8df1d829dc4d108c655eb022bcf3f7~mv2_d_2848_4288_s_4_2.jpg | alt=
+TEXT: July 8-31 | After each opening
+TEXT: EDUCATIONAL COMPONENT&nbsp;
+TEXT: Forums in Spanish and English immediately after each opening
+TEXT: BEATRIZ J. RIZK, Ph.D. | Educational Program Director
+IMAGE: src=./Program 2022 _ teatroavante_files/Bette davis.jpg | alt=Bette davis.jpg
+TEXT: Friday and Saturday; July 8 and 9 | 8:30 pm
+TEXT: Sunday, July 10 | 5:00 pm
+TEXT: Montevideo, URUGUAY
+TEXT: BETTE DAVIS, ¿ESTÁS AHÍ?
+TEXT: (Are You There, Bette Davis?&nbsp; )
+TEXT: Written and Directed by Domingo Milesi
+TEXT: MDCA’s On.Stage Black Box Theatre | 2901 West Flagler Street, Miami
+TEXT: Azucena is looking for love and the meaning of life following the loss of her mother and her retirement from work. She walks through her feelings of mourning, with her friend, Graciela, trying to find new signs and motivations during her daily visits to an old neighborhood movie house that refuses to die. There, they meet Aníbal, and this encounter detonates a game between reality and fiction, where supernatural elements also emerge by means of esoteric practices that could offer a new interpretation of the present and establish a line of communication with the afterlife.
+TEXT: The play features binaural sound technology, and the audience will listen to it with headphones.
+IMAGE: src=./Program 2022 _ teatroavante_files/Alacran-8.jpg | alt=Alacran-8.jpg
+TEXT: Thursday, Friday and Saturday, July 14, 15 and 16| 8:30 pm
+TEXT: MURATICA TEATRO, Badajoz, Extremadura, ESPAÑA
+TEXT: ALACRÁN O LA CEREMONIA
+TEXT: (Scorpion or The Ceremony)
+TEXT: Written by José Antonio Lucia | Directed by Román Podolsky
+TEXT: MDCA’s On.Stage Black Box Theatre | 2901 West Flagler Street, Miami
+TEXT: A story of a love triangle in the heart of sordid Spanish taverns. Scorpion or The Ceremony emerges from the gypsy splendor that allows its history to bleed out amidst obscenities, the zambra dance, and thorns. This scoundrel gathers with himself each night, thrusts himself into the performance with a flamenco cry, sprinkles it with courage, and begins his interpretation of “La Cangrejo,” the woman who was the love of his life and is no longer here. Alacrán comes to remember her while he settles into the black, funny, and absurd tragicomedy that is his life.
+IMAGE: src=./Program 2022 _ teatroavante_files/Encuentros breves con hombres repulsivos_1__edited.jpg | alt=Encuentros breves con hombres repulsivos.1._edited.jpg
+TEXT: Friday and Saturday;&nbsp; July 15 and 16 | 8:30 pm
+TEXT: Sunday, July 17 | 5:00 pm
+TEXT: FUNDACIÓN FESTIVAL INTERNACIONAL TEATRO A MIL, Santiago, CHILE
+TEXT: ENCUENTROS BREVES CON HOMBRES REPULSIVOS
+TEXT: (Brief Encounters with Repulsive Men )
+TEXT: Adapted &amp; Directed by Daniel Veronese
+TEXT: Carnival Studio Theater, Adrienne Arsht Center | 1300 Biscayne Boulevard, Miami
+TEXT: In the course of eight brief independent meetings, two actors interact and exchange roles back and forth. The subjects are different, but all have something in common: the contemporary masculine condition that becomes evident in response to an encounter with a woman - in love, sex and even loss.
+IMAGE: src=./Program 2022 _ teatroavante_files/Frida 4.jpg | alt=Frida 4.jpg
+TEXT: Saturday, July 16| 5:00 pm
+TEXT: SOCIETY OF THE EDUCATIONAL ARTS, Inc., New York, USA &amp; CONECTA MIAMI ARTS, Miami USA
+TEXT: LOS COLORES DE FRIDA
+TEXT: (Frida's colors)
+TEXT: Written &amp; Directed by Manuel Morán
+TEXT: Key Biscayne Community Center ​
+TEXT: ---------------------------------------------------------------------------------------------------------------------------------
+TEXT: Sunday, July 17 | 2:00 - 6:00 pm
+TEXT: International Children's Day
+TEXT: MDCA’s Mid-Stage Theatre | 2901 West Flagler Street, Miami
+TEXT: 2:00 – 3:00 pm | Arts and crafts, rides, face painting, and distribution of combo meals
+TEXT: 3:00 – 4:00 pm | Workshops: Painting &amp; Puppetry
+TEXT: 4:00 – 5:00 pm | Workshops: Mime
+TEXT: 5:00 – 6:00 pm | Performance: Los colores de Frida
+TEXT: A bilingual performance about the great Mexican painter, Frida Kahlo, which combines music, visual arts, story narratives, puppets and the audience’s participation. There are three Fridas on stage –the painter, the singer and the storyteller- and the three will transport the young audience on a biographical journey where colors heal. The performance features puppets (hand puppets, finger puppets and rod puppets), projections of the artist’s most emblematic paintings, together with the animated illustrations of the storybook Los colores de Frida/Frida’s Colors. While the performance is going on, children will be able to watch the creation of an artwork on stage. The expressions, folklore, music and color of Mexican culture will be the main protagonists, in order to tell the story of one of the greatest artists in the Americas.
+TEXT: &nbsp;
+TEXT: Free&nbsp; Admission &nbsp;and parking
+IMAGE: src=./Program 2022 _ teatroavante_files/ROTA9.jpg | alt=ROTA9.jpg
+TEXT: Friday and Saturday;&nbsp; July 22, 23| 8:30 pm
+TEXT: Sunday, July 24| 5:00 pm
+TEXT: EL BALCÓN DE MEURSAULT, Caba, ARGENTINA&nbsp;
+TEXT: ROTA
+TEXT: (Broken)
+TEXT: Written by Natalia Villamil | Directed by Mariano Stolkiner
+TEXT: Carnival Studio Theater, Adrienne Arsht Center | 1300 Biscayne Boulevard, Miami
+TEXT: A play that challenges us, as a society, through a mother that must rebuild her existence around the death of her son, who has killed himself after committing femicide. A topic, unfortunately current, which presents a different focus, where the plot will not revolve around the killer nor the victim, but instead, around the voice of this woman who had to raise her son on her own. She will try to find a little love, a little understanding, like any other woman deserves.
+TEXT: (In Spanish with English supertitles)
+IMAGE: src=./Program 2022 _ teatroavante_files/quintu.jpg | alt=quintu.jpg
+TEXT: Friday and Saturday;&nbsp; July 22, 23| 8:30 pm
+TEXT: Sunday, July 24| 5:00 pm
+TEXT: ENTRETENIMIENTO EDUCATIVO, Inc., San Juan, PUERTO RICO
+TEXT: QUÍNTUPLES
+TEXT: (Quintuplets)
+TEXT: Written by Luis Rafael Sánchez&nbsp; | Directed by Emineh de Lourdes
+TEXT: MDCA’s On.Stage Black Box Theatre | 2901 West Flagler Street, Miami
+TEXT: This work makes reference to Puerto Rico and the world during the time period 1950 and 1984. It serves as a historical document for new generations to get to know their country as well as the world in which their parents, grandparents and great grandparents grew, and also to learn about the worldviews prevalent in the various settings wherein the play unfolds. An excellent example of this reality, a national classic of universal scope that transcends time. Quintuplets is the most viewed theater work around the world written by a Puerto Rican playwright who resides in Puerto Rico.
+IMAGE: src=./Program 2022 _ teatroavante_files/XXXVI - IHTF - Life_Achievement_Award_Image_2022.jpg | alt=XXXVI - IHTF - Life.Achievement.Award.Image.2022.jpg
+TEXT: Thursday, July 28 | Before the performance
+TEXT: PRESENTATION OF 2022 LIFE ACHIEVEMENT IN THE PERFORMING ARTS AWARD
+TEXT: ADRIANA BARRAZA | MEXICO
+TEXT: Carnival Studio Theater, Adrienne Arsht Center
+IMAGE: src=./Program 2022 _ teatroavante_files/mejorcallo.jpg | alt=mejorcallo.jpg
+TEXT: Thursday, Friday and Saturday, July 28, 29 and 30 | 8:30 pm
+TEXT: Sunday, July 31 | 5:00 pm
+TEXT: TEATRO AVANTE | Miami, U.S.A.
+TEXT: MEJOR ME CALLO
+TEXT: ( I’d Better Shut Up )
+TEXT: Written by Abel González Melo&nbsp; | Directed by Mario Ernesto Sánchez
+TEXT: Carnival Studio Theater, Adrienne Arsht Center | 1300 Biscayne Boulevard, Miami
+TEXT: &nbsp;
+TEXT: Paris Cosmetics, a prestigious family business, has been the leader in the production and sale of beauty products for years. The company appears to be prosperous, but the sudden arrival of a clever computer Wiz to whom the business owner has granted exceptional authority, threatens to alter the existing harmony. The intruder’s behavior causes unexpected conflicts, and the family members must ally to avert a debacle.&nbsp;
+TEXT: (In Spanish with English supertitles)
+TEXT: PLEASE NOTE |&nbsp;For security reasons, the United States has severely tightened restrictions on visas and other travel documents. Such restrictions may impair our ability to adhere to the published Festival schedule. Please bear with us and keep in mind that our program may change without notice. Thank you!
+TEXT: 40º&nbsp; festival &nbsp;Internacional de teatro Hispano de&nbsp; Miami PROXIMAMENTE
+TEXT: Teatroavante.org
+IMAGE: src=./Program 2022 _ teatroavante_files/11062b_f4e3e7f537ff4762a1914aa14e3e36b9~mv2.png | alt=
+IMAGE: src=./Program 2022 _ teatroavante_files/17f992598001435083075924d7b6ae80.png | alt=Instagram - White Circle

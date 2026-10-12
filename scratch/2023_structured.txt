@@ -1,0 +1,133 @@
+TEXT: La Compañía Personal Premios PROGRAMA
+TEXT: PROGRAMA 2025 Programa de Mano Calendario Eventos Adicionales Día Internacional del Niño Teatros Sponsors ARCHIVOS DEL FESTIVAL
+TEXT: CONTACTOS
+TEXT: INSCRIPCIONES 40º FESTIVAL
+TEXT: More
+IMAGE: src=./2023 _ teatroavante_files/TEA_Brand 37_02_IHTF-CMYK_edited.png | alt=TEA_Brand 37_02_IHTF-CMYK_edited.png
+TEXT: XXXVII &nbsp;INTERNATIONAL HISPANIC THEATRE FESTIVAL OF MIAMI
+TEXT: 2023 &nbsp;PROGRAM
+IMAGE: src=./2023 _ teatroavante_files/gabriela_esquivel.jpg | alt=gabriela_esquivel.jpg
+TEXT: Thursday, June 22
+TEXT: INTRODUCING THE POSTER ARTIST
+TEXT: GABRIELA ESQUIVEL&nbsp; | COSTA RICA
+TEXT: MDCA’s Lobby | 2901 West Flagler Street, Miami
+IMAGE: src=./2023 _ teatroavante_files/f1540b_4b8df1d829dc4d108c655eb022bcf3f7~mv2_d_2848_4288_s_4_2.jpg | alt=
+TEXT: July 7-30 | After each opening
+TEXT: EDUCATIONAL COMPONENT&nbsp;
+TEXT: Forums in Spanish and English immediately after the presentation
+TEXT: BEATRIZ J. RIZK, Ph.D. | Educational Program Director
+IMAGE: src=./2023 _ teatroavante_files/1.jpg | alt=1.jpg
+TEXT: Friday and Saturday; July 7 &amp; 8 | 8:30 pm
+TEXT: Sunday, July 9 | 5:00 pm
+TEXT: TEATRO ESPRESSIVO, San José, COSTA RICA
+TEXT: LA ISLA DE LOS HOMBRES SOLOS
+TEXT: (The Lonely Men´s Island)
+TEXT: Directed by José Zayas. Revival Humberto Canessa.
+TEXT: MIAMI-DADE COUNTY AUDITORIUM - On.Stage Black Box | 2901 West Flagler Street, Miami Florida 33135
+TEXT: A major Costa Rican literary bestseller, this is a novel written by José León Sánchez in 1968. It narrates the terrible events in the San Lucas prison, the island on Costa Rica’s Pacific coast. In 2016, Teatro Espressivo decided to stage this relevant novel. Playwright Caridad Svich wrote the theater adaptation. A cast of experienced actors brings this novel to life, an intense reflection on the value of freedom.
+IMAGE: src=./2023 _ teatroavante_files/2_JPG.jpg | alt=2.JPG
+TEXT: Saturday and Sunday, July 8 &amp; 9| 11:00 am
+TEXT: LʼAUTENTICA, Barcelona, ESPAÑA&nbsp;
+TEXT: OH, UH, AH, E! TIERRA – AIRE – FUEGO – AGUA
+TEXT: (OH, UH, AH, EI! Earth – Air – Fire – Water)
+TEXT: Written &amp; Directed by Verónica Pallini
+TEXT: KOUBEK CENTER THEATRE | 2705 SW 3rd Street, Miami, FL &nbsp;33135
+TEXT: Audiovisual installation recommended for children 1 to 5 years of age. This is a ludic journey through the elements of nature, as children are guided by two curious characters who explore, ask questions, are surprised, and invite their audience to interact, guess and play until we get to a space filled with music, lights, and shadows.
+TEXT: Free&nbsp; Admission and Valet parking
+IMAGE: src=./2023 _ teatroavante_files/3.jpg | alt=3.jpg
+TEXT: Thursday,&nbsp; Friday and Saturday;&nbsp; July 13, 14 &amp; 15 | 8:30 pm
+TEXT: TEJIDO ABIERTO TEATRO, Buenos Aires, ARGENTINA&nbsp;
+TEXT: YO SOY DON QUIJOTE DE LA MANCHA
+TEXT: (I am Don Quijote de la Mancha)
+TEXT: By José Ramón Fernández &nbsp; |&nbsp; Directed by Jorge Eines
+TEXT: MIAMI-DADE COUNTY AUDITORIUM - On.Stage Black Box| 2901 &nbsp;W. Flagler Street, Miami, Florida &nbsp;33135
+TEXT: Cervantes created a knight-errant, a quixotic figure who won no battles, and a deranged man who loved the freedom to do good. He always seemed to be searching for justice and truthfulness—the insanity of daring to tell the truth. To exist in our rehearsals, the characters in this mythic novel of Spanish literature needed a ballad that could show the way to a new theatrical tapestry. Actors often break realism’s rules with surprising actions. The same technique of interpretation protects those actors. The metaphysics of theater is nothing more than ethics and procedure, which grant a new value to silence at each rehearsal and with each performance.
+IMAGE: src=./2023 _ teatroavante_files/4.jpg | alt=4.jpg
+TEXT: Friday and Saturday;&nbsp; July 14, 15| 8:30 pm
+TEXT: Sunday, July 16| 5:00 pm
+TEXT: Complejo Teatral de Buenos Aires, ARGENTINA&nbsp;
+TEXT: CAE LA NOCHE TROPICAL
+TEXT: (Tropical Night Falling)
+TEXT: By Manuel Puig
+TEXT: Stage Version Santiago Loza &amp; Pablo Messiez
+TEXT: Directed by Pablo Messiez&nbsp; |&nbsp; Revival Leonor Manso.
+TEXT: An integral production of the Complejo Teatral de Buenos Aires
+TEXT: Adrienne Arsht Center for the Performing Arts of Miami-Dade County | 1300 Biscayne Boulevard, Miami, Florida 33132
+TEXT: This play is based on Juan Manuel Puig's homonymous novel. It speaks about aging, and affection as a need in mitigating the world's absurdity. Two eighty-year-old sisters who live in Rio de Janeiro speak about the love life of a younger neighbor, which will become an essential part of their lives. An emotional show filled with delicate humor and a great sense of humanity.
+IMAGE: src=./2023 _ teatroavante_files/5.jpg | alt=5.jpg
+TEXT: Friday;&nbsp; July 14| 8:30 pm
+TEXT: Saturday, July 15| 6:00 pm
+TEXT: PERBACCO, Buenos Aires, ARGENTINA
+TEXT: UNA
+TEXT: (Ones)
+TEXT: Written by Miriam Odorico &amp; Giampaolo Samà &nbsp; | Directed by Giampaolo Samà
+TEXT: KOUBEK CENTER THEATRE | 2705 &nbsp; 3rd Street, Miami, FL &nbsp;33135
+TEXT: The free version of “One, None and One Hundred Thousand" is a novel about personality breakdown. The corroboration of an insignificant physical detail transforms into a unique and disturbing event to analyze our doubts about existence. Who am I? How do others see us? How many characters are we? Abandoning one hundred thousand masks to wear just ONE.
+IMAGE: src=./2023 _ teatroavante_files/6.jpg | alt=6.jpg
+TEXT: Saturday, July 15| 5:00 pm
+TEXT: LA TARTANA TEATRO, Madrid, ESPAÑA
+TEXT: EL GUARDIÁN DE LOS CUENTOS
+TEXT: (The Tales Keeper)
+TEXT: Written by Juan Muñoz &amp; Inés Maroto&nbsp; |&nbsp; Directed by Juan Muñoz
+TEXT: Key Biscayne Community Cente r&nbsp; | 10 Village Green Way, Key Biscayne
+TEXT: It’s the library’s last day, and the librarian will open many of our favorite stories and go through adventures. An original account that combines the best moments of traditional children’s tales. A dynamic play that tells as many as five different stories while innovating both form and technique in each one through tens of puppets of all sizes, with shadow theatre and shocking sets. The play promises not to let the stories or the images disappear.
+TEXT: &nbsp;
+TEXT: Sunday, July 1 6 | from 2:00 pm to 6:00 pm
+TEXT: International Children' s Day
+TEXT: MIAMI-DADE COUNTY AUDITORIUM – Mid Stage&nbsp; | 2901 Flagler Street, Miami, Florida &nbsp;33135
+TEXT: Free&nbsp; Admission &nbsp;and parking
+TEXT: 2:00 – 3:00 pm | Entertainment and distribution of combo meals
+TEXT: 2:30 – 5:00 pm | Carnival Games
+TEXT: 3:00 – 5:00 pm | Workshops: Painting &amp; Puppetry
+TEXT: 5:00 – 6:00 pm | Performance: The Tales Keeper
+TEXT: EL GUARDIÁN DE LOS CUENTOS
+TEXT: (The Tales Keeper)
+TEXT: It’s the library’s last day, and the librarian will open many of our favorite stories and go through adventures. An original account that combines the best moments of traditional children’s tales. A dynamic play that tells as many as five different stories while innovating both form and technique in each one through tens of puppets of all sizes, with shadow theatre and shocking sets. The play promises not to let the stories or the images disappear.
+IMAGE: src=./2023 _ teatroavante_files/egdc1.jpg | alt=egdc1.jpg
+TEXT: Buy Tickets Friday and Saturday, July 21 &amp; &nbsp;22 | 8:30 pm
+TEXT: Sunday, July 23 | 5:00 pm
+TEXT: L OCO7 DANCE PUPPET THEATRE COMPANY, New York, USA-COLOMBIA&nbsp;
+TEXT: ALMUERZO CON SONIA
+TEXT: (Lunch with Sonia)
+TEXT: Written &amp; Directed by Federico Restrepo &amp; Denise Greber
+TEXT: Carnival Studio Theater, Adrienne Arsht Center | 1300 Biscayne Boulevard, Miami, Florida 33132
+TEXT: In August 2012, tired from a degenerative illness, Sonia Jaramillo chose the day and how she would die with dignity. During an entire month, she organized lunches and spoke with her family while preparing them for her last goodbye. Lunch with Sonia is a recount of the emotions of her previous day, written and choreographed by her nephew Federico Restrepo Jaramillo as he remembers it, calling attention to the intimate and personal nature of dying. &nbsp;
+IMAGE: src=./2023 _ teatroavante_files/2_JPG(1).jpg | alt=2.JPG
+TEXT: Friday and Saturday, July 21 and 22 | 8:30 pm
+TEXT: Sunday, July 23 | 5:00 pm
+TEXT: ARGOS TEATRO, Madrid, ESPAÑA
+TEXT: FORO
+TEXT: (Forum)
+TEXT: Written &amp; Directed by Carlos Celdrán
+TEXT: MIAMI-DADE COUNTY AUDITORIUM – On.Stage Black Box&nbsp; |&nbsp; 2901 W. Flagler Street,
+TEXT: Miami, Florida &nbsp;33135
+TEXT: A virtual visit from a childhood friend causes the protagonist to review the past and the mistakes of their shared history. This play ponders guilt, forgiveness, and friendship against the background of an intolerant and closed society.
+IMAGE: src=./2023 _ teatroavante_files/9_JPG.jpg | alt=9.JPG
+TEXT: Friday and Saturday, July 21 and 22 | 8:30 pm
+TEXT: Sunday, July 23 | 5:00 pm
+TEXT: ESPACIO ESCÉNICA / Bogotá DC, COLOMBIA
+TEXT: SUPERPASITO
+TEXT: (Careless Whispers)
+TEXT: Written &amp; Directed by Julio Escallón
+TEXT: KOUBEK CENTER THEATRE | 2705 &nbsp; 3rd Street, Miami, FL &nbsp;33135
+TEXT: A couple lives in a place where whispering is the norm. There is an imminent and lethal danger of raising one’s voice. Will the couple coexist under the rule of the whisper regime? Will they dare to break the laws of their environment? What will each risk and each transgression reveal? The couple will face those questions between life and death, between love and boredom, between their silence and voice.
+TEXT: Free Valet parking
+IMAGE: src=./2023 _ teatroavante_files/MIGUEL-RUBIO-ZAPATA_-PREMIO-2023.jpg | alt=MIGUEL-RUBIO-ZAPATA.-PREMIO-2023.jpg
+TEXT: Thursday, July 27 | Before the performance
+TEXT: PRESENTATION OF 2023&nbsp; LIFE ACHIEVEMENT IN THE PERFORMING ARTS AWARD
+TEXT: MIGUEL RUBIO ZAPATA | PERÚ
+TEXT: Carnival Studio Theater, Adrienne Arsht Center
+IMAGE: src=./2023 _ teatroavante_files/10_JPG.jpg | alt=10.JPG
+TEXT: Thursday, Friday and Saturday, July 2 7, 28 and 29 | 8:30 pm
+TEXT: Sunday, July 30 | 5:00 pm
+TEXT: TEATRO AVANTE, Miami, U.S.A.
+TEXT: AL PIE DEL TÁMESIS&nbsp;
+TEXT: (On the Banks of the Thames)
+TEXT: Written by Mario Vargas Llosa. Directed by Mario Ernesto Sánchez
+TEXT: CARNIVAL STUDIO THEATER | Adrienne Arsht Center for the Performing Arts of Miami-Dade County | 1300 Biscayne Boulevard, Miami, Florida 33132
+TEXT: Based on real-life characters, the play’s plot revolves around an unforeseen encounter in a London hotel where the protagonists are forced to unravel the traps of memory and unmask eternal silences to shed light on the truth of a youthful act that transformed their lives.
+TEXT: PLEASE NOTE |&nbsp;For security reasons, the United States has severely tightened restrictions on visas and other travel documents. Such restrictions may impair our ability to adhere to the published Festival schedule. Please bear with us and keep in mind that our program may change without notice. Thank you!
+TEXT: 40º&nbsp; festival &nbsp;Internacional de teatro Hispano de&nbsp; Miami PROXIMAMENTE
+TEXT: Teatroavante.org
+IMAGE: src=./2023 _ teatroavante_files/11062b_f4e3e7f537ff4762a1914aa14e3e36b9~mv2.png | alt=
+IMAGE: src=./2023 _ teatroavante_files/17f992598001435083075924d7b6ae80.png | alt=Instagram - White Circle

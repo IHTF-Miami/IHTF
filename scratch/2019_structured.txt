@@ -1,0 +1,119 @@
+TEXT: La Compañía Personal Premios PROGRAMA
+TEXT: PROGRAMA 2025 Programa de Mano Calendario Eventos Adicionales Día Internacional del Niño Teatros Sponsors ARCHIVOS DEL FESTIVAL
+TEXT: CONTACTOS
+TEXT: INSCRIPCIONES 40º FESTIVAL
+TEXT: More
+IMAGE: src=./2019 _ teatroavante_files/34-FESTIVAL_edited.png | alt=34-FESTIVAL_edited.png
+TEXT: XXXIV INTERNATIONAL HISPANIC THEATRE FESTIVAL OF MIAMI
+TEXT: 2019&nbsp;PROGRAM
+IMAGE: src=./2019 _ teatroavante_files/artista.png | alt=artista.png
+TEXT: Thursday, June 20| 7:00 -10:00 pm
+TEXT: Poster Unveiling &nbsp; | Meet and greet&nbsp;the Artist Cocktail Reception
+TEXT: MANUEL TRICALLOTIS | Artist (Chile/Ecuador)
+TEXT: Miami-Dade County Auditorium - Lobby&nbsp;| 2901 West&nbsp;Flagler Street, Miami
+TEXT: Co-sponsored by BACARDÍ USA
+TEXT: (By invitation only)&nbsp; (Free parking) &nbsp;
+IMAGE: src=./2019 _ teatroavante_files/f1540b_4b8df1d829dc4d108c655eb022bcf3f7~mv2_d_2848_4288_s_4_2.jpg | alt=
+TEXT: July 12-28&nbsp;| After each opening
+TEXT: Educational Component&nbsp; |&nbsp;Forums about&nbsp;each opening
+TEXT: BEATRIZ J. RIZK, Ph.D. | Educational Program Director
+IMAGE: src=./2019 _ teatroavante_files/Screen Shot 2019-04-23 at 9_07_05 PM.png | alt=Screen Shot 2019-04-23 at 9.07.05 PM.png
+TEXT: Thursday, Friday, and Saturday;&nbsp;July 11, 12,&nbsp;and 13&nbsp;| 8:30 pm
+TEXT: Sunday, July 14&nbsp;| 5:00 pm
+TEXT: NUEVE DE NUEVE&nbsp;|&nbsp;Zaragoza,&nbsp;ESPAÑA
+TEXT: LA EXTINTA POÉTICA (Extinct Poetics)
+TEXT: Written by&nbsp;Eusebio Calonge
+TEXT: Directed by Paco de la Zaranda
+TEXT: Carnival Studio Theater, Adrienne Arsht Center |1300 Biscayne Boulevard, Miami
+TEXT: Co-presented by the Adrienne Arsht Center for the Performing Arts of Miami-Dade County
+TEXT: Sponsored by the government of Aragón, Spain
+TEXT: Co-sponsored by Centro Cultural Español, Miami, Consejería de Cultura de la Embajada de España, Spain Arts and Culture, Ayuntamiento de Zaragoza, Ayuntamiento de Huesca, Teatro Principal de Zaragoza
+TEXT: What does Ophelia do in our era? Who hears her lament before she sinks into vulgarity and tedium? It is like asking for the meaning of poetry in our age of speed and space.
+IMAGE: src=./2019 _ teatroavante_files/CARTAS DEJENNY 3.jpg | alt=CARTAS DEJENNY 3.jpg
+TEXT: Friday and Saturday, July 12 and 13 | 8:30 pm
+TEXT: Sunday, July 14 | 5:00 pm
+TEXT: COMPAÑÍA TEATRO IMAGEN | Santiago,&nbsp;CHILE&nbsp;
+TEXT: CARTAS DE JENNY&nbsp;- La intranscendente epopeya de Jenny Masterson&nbsp;
+TEXT: (Letters from Jenny - The Insignificant Epic of Jenny Masterson)
+TEXT: Written and directed by Gustavo Meza
+TEXT: MDCA’s On.Stage Black Box Theatre | 2901 West&nbsp;Flagler Street, Miami
+TEXT: (Free parking) &nbsp;
+TEXT: Sponsored by FONDART Nacional 2019 Línea de Circulación Internacional Ministerio de las Culturas, las Artes y el Patrimonio, Gobierno de Chile.
+TEXT: Co-sponsored by Ministerio de Relaciones Exteriores, Consulado General de Chile en Miami, Gobierno de Chile.
+TEXT: &nbsp;
+TEXT: A domineering mother, an overprotected son and a girl who comes to break up the circle of maternal certainties with her charm and cheekiness.
+IMAGE: src=./2019 _ teatroavante_files/EL_BULULÚ__ANTOLOGIA_ENDIABLADA.jpg | alt=EL_BULULÚ_.ANTOLOGIA_ENDIABLADA.jpg
+TEXT: Thursday, Friday, and Saturday;&nbsp; July 18, 19 and 20 | 8:30 pm
+TEXT: COMPAÑÍA DE TEATRO FUGAZ&nbsp;| Buenos Aires, ARGENTINA
+TEXT: El BULULÚ. ANTOLOGÍA ENDIABLADA
+TEXT: (The Itinerant Actor. A Devilish Anthology)
+TEXT: Written &amp; Directed by Leticia González de Lellis and Osqui Guzmán
+TEXT: MDCA’s On.Stage Black Box Theatre | 2901 West&nbsp;Flagler Street, Miami
+TEXT: (Free parking) &nbsp;
+TEXT: Theatre is a sewing machine that titches memories together. The writings from Spain’s Golden Age become fused with the gold that the conquistador stook from Bolivia. It is cultural gold that moves across time and that only memory saves by honoring the troubadour's art.
+IMAGE: src=./2019 _ teatroavante_files/BENDITA GLORIA Juan G_ Larrondo   (5) (2.jpg | alt=BENDITA GLORIA Juan G. Larrondo   (5) (2
+TEXT: Friday and Saturday;&nbsp; July&nbsp;19 and&nbsp;20 | 8:30 pm
+TEXT: Sunday,&nbsp; July 21 | 5:00 pm
+TEXT: ALBANTA&nbsp;| Cádiz, ESPAÑA
+TEXT: BENDITA GLORIA&nbsp;(Blessed Gloria)
+TEXT: Written by Juan G. Larrondo | Directed by&nbsp;Pepe Bable
+TEXT: Carnival Studio Theater, Adrienne Arsht Center | 1300 Biscayne Boulevard, Miami
+TEXT: Co-presented by the Adrienne Arsht Center for the Performing Arts of Miami-Dade County
+TEXT: &nbsp;
+TEXT: Following her father’s death, Gloria shuts herself up in her home like a hermit inside a labyrinthine retreat, becoming usurper, mistress and slave in a prison that houses other ghosts with no less tangled histories.
+IMAGE: src=./2019 _ teatroavante_files/Screen Shot 2019-04-24 at 12_31_45 AM_pn.png | alt=Screen Shot 2019-04-24 at 12.31.45 AM.pn
+TEXT: Friday, July 19 | 8:30 pm (Immediately before the performance)
+TEXT: Presentation of&nbsp; 2019&nbsp;Life Achievement in the Performing Arts Award
+TEXT: PEPE BABLE | ESPAÑA
+TEXT: Carnival Studio Theater, Adrienne Arsht Center | 1300 Biscayne Boulevard, Miami
+IMAGE: src=./2019 _ teatroavante_files/Siete Cabritllos - Teatro Los Claveles 0.jpg | alt=Siete Cabritllos - Teatro Los Claveles 0
+TEXT: Saturday 20&nbsp;de julio | 5:00 pm
+TEXT: LOS CLAVELES | Murcia, ESPAÑA
+TEXT: SIETE CABRITILLOS&nbsp; (Seven Little Goats)
+TEXT: Written by Paca García y Aniceto Roca&nbsp;
+TEXT: Directed by Aniceto Roca
+TEXT: Key Biscayne Community Center
+TEXT: Co-presented by KEY BISCAYNE COMMUNITY CENTER Co-sponsored by KEY BISCAYNE COMMUNITY FOUNDATION, VILLAGE OF KEY BISCAYNE, INSTITUTO DE LAS INDUSTRIAS CULTURALES Y DE LAS ARTES, REGION DE MURCIA SPAIN, UNITED ALIENS ARTISTS FOUNDATION, TOY, NICKLAUS CHILDREN'S HOSPITAL.
+TEXT: (In Spanish - Free admission &amp; parking)
+TEXT: ---------------------------------------------------------------------------------------------------------------------------------
+TEXT: Sunday, July 21 | 2:00 - 6:00 pm
+TEXT: International&nbsp;Children's&nbsp;Day
+TEXT: MDCA’s On.Stage Black Box Theatre | 2901 West&nbsp;Flagler Street, Miami
+TEXT: Co-sponsored by INSTITUTO DE LAS INDUSTRIAS CULTURALES Y DE LAS ARTES, REGION DE MURCIA SPAIN
+TEXT: (In Spanish - Free admission and parking)
+TEXT: 2:00 – 3:00 pm |&nbsp;Arts and crafts, rides, face painting and distribution of healthy combo meals
+TEXT: 3:00 – 4:00 pm |&nbsp;Workshops: Painting &amp; Puppetry
+TEXT: 4:00 – 5:00 pm |&nbsp;Workshops: Music/Percussion
+TEXT: 5:00 – 6:00 pm | Performance: Siete Cabritillos&nbsp; (Seven Little Goats)
+TEXT: ​ Co-sponsored by INSTITUTO DE LAS INDUSTRIAS CULTURALES Y DE LAS ARTES, REGIÓN DE MURCIA SPAIN
+TEXT: Disobeying their mother, seven kids (little goats) let a wolf into their house. But their mother, and the courage and ingenuity of the youngest, deal the fierce intruder his just deserts.
+IMAGE: src=./2019 _ teatroavante_files/Bayamesa_Familia_2019_JPG.jpg | alt=Bayamesa.Familia.2019.JPG
+TEXT: Thursday, Friday, and&nbsp;Saturday;&nbsp; July 25, 26, and&nbsp;27 |&nbsp;8:30 pm
+TEXT: Sunday, July 28 | 5:00 pm
+TEXT: TEATRO AVANTE | Miami, Florida, USA
+TEXT: Bayamesa
+TEXT: by Abel González Melo | Directed by&nbsp;Mario Ernesto Sánchez&nbsp; (World Premiere)
+TEXT: Carnival Studio Theater, Adrienne Arsht Center | 1300 Biscayne Boulevard, Miami
+TEXT: Co-presented by the Adrienne Arsht Center for the Performing Arts of Miami-Dade County
+TEXT: Co-sponsored by MIAMI-DADE COUNTY DEPARTMENT OF CULTURAL AFFAIRS , NATIONAL
+TEXT: ENDOWMENT FOR THE ARTS,&nbsp;FLORIDA DEPARTMENT OF STATE DIVISION OF CULTURAL AFFAIRS, FUNDING ARTS NETWORK (FAN)
+TEXT: &nbsp;
+TEXT: A theatre company comes across unpublished manuscripts of the poet María Luisa Milanés (1893-1919), an ardent feminist and patriot born in Bayamo, Cuba, and undertakes to put on a play based on her complicated life, thereby discovering the fascinating story of a dangerous clash with patriarchal tyranny.
+TEXT: (In Spanish with English supertitles)
+IMAGE: src=./2019 _ teatroavante_files/MILLONES DE SEGUNDOS (imagen afiche prin.jpg | alt=MILLONES DE SEGUNDOS (imagen afiche prin
+TEXT: Friday and Saturday, July 26 and 27 | 8:30 pm
+TEXT: Sunday, July 28 | 5:00 pm
+TEXT: EL PRINCIPITO PRODUCCIONES |&nbsp;Buenos Aires,&nbsp;ARGENTINA
+TEXT: Millones de segundos (Millions of Seconds)
+TEXT: Written &amp; Directed by Diego Casado Rubio
+TEXT: MDCA’s On.Stage Black Box Theatre |&nbsp; 2901 West&nbsp;Flagler Street, Miami
+TEXT: (Free parking)&nbsp;
+TEXT: &nbsp;
+TEXT: Since he was 5, a transexual teen has been counting the seconds he has left to live in an alien body. He is 554 seconds old and still harbors the hope of&nbsp; beginning his transformation
+TEXT: ​ Co-sponsored by FONDO NACIONAL DE LAS ARTES ARGENTINA, PRO TEATRO MINISTERIO DE CULTURA DE LA CIUDAD DE BUENOS AIRES, FESTIVAL INTERNACIONAL DE BUENOS AIRES, TEATRO DEL ABASTO
+TEXT: (In Spanish with English supertitles)
+TEXT: PLEASE NOTE |&nbsp;For security reasons, the United States has severely tightened restrictions on visas and other travel documents. Such restrictions may impair our ability to adhere to the published Festival schedule. Please bear with us and keep in mind that our program may change without notice. Thank you!
+TEXT: 40º&nbsp; festival &nbsp;Internacional de teatro Hispano de&nbsp; Miami PROXIMAMENTE
+TEXT: Teatroavante.org
+IMAGE: src=./2019 _ teatroavante_files/11062b_f4e3e7f537ff4762a1914aa14e3e36b9~mv2.png | alt=
+IMAGE: src=./2019 _ teatroavante_files/17f992598001435083075924d7b6ae80.png | alt=Instagram - White Circle
