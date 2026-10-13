@@ -389,6 +389,7 @@
       </div>
     </section>
 
+    <!-- Countdown section (hidden)
     <section class="countdown-section" aria-label="Cuenta regresiva">
       <div class="section-inner">
         <h2>IHTF starts in</h2>
@@ -400,6 +401,7 @@
         </div>
       </div>
     </section>
+    -->
 
     <section class="expect-section" id="esperar">
       <div class="section-inner narrow">
@@ -873,22 +875,29 @@
   </div>
 
   <script>
-    const target = new Date(document.getElementById('countdown').dataset.target).getTime();
-    function pad(n) { return String(n).padStart(2, '0'); }
-    function updateCountdown() {
-      const now = Date.now();
-      const diff = Math.max(target - now, 0);
-      const days = Math.floor(diff / (1000 * 60 * 60 * 24));
-      const hours = Math.floor((diff / (1000 * 60 * 60)) % 24);
-      const minutes = Math.floor((diff / (1000 * 60)) % 60);
-      const seconds = Math.floor((diff / 1000) % 60);
-      document.getElementById('days').textContent = days;
-      document.getElementById('hours').textContent = pad(hours);
-      document.getElementById('minutes').textContent = pad(minutes);
-      document.getElementById('seconds').textContent = pad(seconds);
+    const countdownEl = document.getElementById('countdown');
+    if (countdownEl) {
+      const target = new Date(countdownEl.dataset.target).getTime();
+      function pad(n) { return String(n).padStart(2, '0'); }
+      function updateCountdown() {
+        const now = Date.now();
+        const diff = Math.max(target - now, 0);
+        const days = Math.floor(diff / (1000 * 60 * 60 * 24));
+        const hours = Math.floor((diff / (1000 * 60 * 60)) % 24);
+        const minutes = Math.floor((diff / (1000 * 60)) % 60);
+        const seconds = Math.floor((diff / 1000) % 60);
+        const d = document.getElementById('days');
+        const h = document.getElementById('hours');
+        const m = document.getElementById('minutes');
+        const s = document.getElementById('seconds');
+        if (d) d.textContent = days;
+        if (h) h.textContent = pad(hours);
+        if (m) m.textContent = pad(minutes);
+        if (s) s.textContent = pad(seconds);
+      }
+      updateCountdown();
+      setInterval(updateCountdown, 1000);
     }
-    updateCountdown();
-    setInterval(updateCountdown, 1000);
 
     // Animación de contadores para la sección "Qué esperar"
     document.addEventListener("DOMContentLoaded", () => {
