@@ -386,6 +386,10 @@ section h2 {
   margin-bottom: 42px
 }
 
+.countdown-section h2 .th-lower {
+  text-transform: lowercase;
+}
+
 .countdown {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
